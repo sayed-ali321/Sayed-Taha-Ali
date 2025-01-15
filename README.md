@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **AWS Cloud**
 
-- 💬 Ask me about **Data Visualization, SQL, Python, Excel, Power BI, , Data Cleaning and Preprocessing, Data Wrangling**
+- 💬 Ask me about **Data Analyst | Data Analysis | Data Analytics | Data Cleaning | Data Visualization | Data Storytelling**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16eR4QZIbnXa5yAb-NuZM4-8hEn44OVvJ/view?usp=sharing](https://drive.google.com/file/d/16eR4QZIbnXa5yAb-NuZM4-8hEn44OVvJ/view?usp=sharing)
 
